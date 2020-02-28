@@ -6,4 +6,6 @@ we know has to be equal to or less than 9999) and n is the number of items (whic
 1000000). Knowing these two numnbers, we can safely say that countSort is a viably fast sorting
 method for this assignment.
 
+![](gify.gif)
+
 Data for P05
